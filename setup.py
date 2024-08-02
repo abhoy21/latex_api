@@ -19,7 +19,7 @@ setup(
     description='A LaTeX compilation service using Flask and Docker',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/yourusername/my_latex_compiler',
+    url='https://github.com/abhoy21/latex_api.git',
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
