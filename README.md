@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # Latex Compiler Api
 
