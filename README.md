@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Latex Compiler Api
 
@@ -128,3 +129,4 @@ This endpoint accepts a LaTeX source file (`.tex`) and returns the compiled PDF 
 
    ```bash
    curl -F "file=@path/to/your/document.tex" http://localhost:5000/compile --output compiled_document.pdf
+________________________________________________________________________________________________________________________
